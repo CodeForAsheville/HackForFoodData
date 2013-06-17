@@ -576,32 +576,7 @@
                 "project_id": "LIII 12-30-004"
             }
         },
-        {
-            "type": "Feature",
-            "id": "coa_development_locations_view.fid-7846908e_13f5336d6c5_62cb",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -85.56827958278724,
-                    33.56815181333042
-                ]
-            },
-            "geometry_name": "shape",
-            "properties": {
-                "objectid": 234,
-                "name": "Bermard Carman",
-                "label": "234",
-                "status": "1",
-                "enddate": "2015-11-19 00:00:00.0",
-                "startdate": "2012-11-19 00:00:00.0",
-                "y": 0,
-                "x": 0,
-                "edit_date": "2012-11-19 11:23:00.0",
-                "edit_by": "webeditor",
-                "project_id": "CZ 12-51-009"
-            }
-        },
-        {
+            {
             "type": "Feature",
             "id": "coa_development_locations_view.fid-7846908e_13f5336d6c5_62cc",
             "geometry": {
